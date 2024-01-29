@@ -1,0 +1,18 @@
+# overview of steel project
+
+This data anlysis project aims to provide insights in to the sales of the steel rods of an steel production company over the past year. By analyzing various aspects of the sales data , we seek to indentify trends, make data-drien recommendations, and gain a deeper understanding of the client performance
+
+Table of contents
+Data sources 
+Installation
+Usage 
+Project structure
+Analysis
+Results
+Recommendations
+Contributing
+License
+
+_
+Data sources
+steel_set : The primary dataset used for this analysis 
