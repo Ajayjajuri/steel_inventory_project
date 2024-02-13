@@ -63,9 +63,6 @@ Based on the anlaysis , we recommend the following actions:
 - Demand forecasting  :- Steel rods having 8mm dia are sold more therefore the production unit just have to focus on producing those as 6mm is least sold as it can be produced as per requirement 
 
 
-## Limitations
- I had to remove all zero values from rtnmrp and rtnquantity because they would affected the accuracy of my conclusions for the analysis . There are still few outliers even after the ommision 
-
 
 
 
